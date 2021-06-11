@@ -45,7 +45,7 @@
 		- CNN's
 		- Autoencoders
 5. Data Structures and Algorithms
-	Contains many practice problems and solutions on a variety of topics
+	5a. Contains many practice problems and solutions on a variety of topics
 		- recursion
 		- graphs
 		- hash tables
