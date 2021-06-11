@@ -1,4 +1,6 @@
-## Table of Contents
+This repo contains much of my work from Lambda School.
+
+# Table of Contents
 
 ### 1. Statistics Fundamentals
 	1a. Data Wrangling and Storytelling
