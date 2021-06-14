@@ -1,6 +1,9 @@
 This repo contains much of my work from Lambda School.
 
-# Table of Contents
+I did not write these notebooks. However, notes are mine and I have a working knowledge of everything contained here.
+
+## Table of Contents
+
 
 ### 1. Statistics Fundamentals
 	1a. Data Wrangling and Storytelling
