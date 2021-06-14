@@ -1,6 +1,6 @@
 This repo contains much of my work from Lambda School.
 
-I did not write these notebooks. However, notes are mine and I have a working knowledge of everything contained here.
+I did not write these notebooks. However, I've worked through them all at least twice, adding some customizations. Notes are mine.
 
 ## Table of Contents
 
